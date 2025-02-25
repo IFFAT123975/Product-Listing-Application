@@ -6,5 +6,4 @@ Skills: React.js · Node.js · Express.js · MongoDB
 
 ![image](https://github.com/user-attachments/assets/f1d90b5d-8f0e-432a-83d4-03e7728839b9)
 
-
-run command: npm run start
+Start the app: npm run start
