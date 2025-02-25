@@ -1,0 +1,16 @@
+# Logs
+node_modules
+dist
+dist-ssr
+.env
+node_modules
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+yarn.lock
+package-lock.json
+package.json
+package.json
+
+
+
